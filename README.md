@@ -19,7 +19,6 @@ This project is a Machine Learning-based Intrusion Detection System that detects
 •	Random Forest
 •	XGBoost
 ▶️ How to Run
-git clone https://github.com/your-username/AI-Intrusion-Detection-System.git
 cd AI-Intrusion-Detection-System
 
 python -m venv venv
